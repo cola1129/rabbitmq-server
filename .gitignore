@@ -1,0 +1,10 @@
+*.beam
+*.swp
+*.patch
+*.orig
+*.tmp
+erl_crash.dump
+deps.mk
+
+out
+rabbitmq-server.iml
